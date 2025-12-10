@@ -1,5 +1,1 @@
-👋 Salut ! Je suis Issra, étudiante en cycle d’ingénieur informatique appliqué à l’ENISO.  
-💻 Passionnée par la programmation, les systèmes et le développement logiciel.  
-🚀 J’aime apprendre de nouvelles technologies et travailler sur des projets collaboratifs.  
-📚 Centres d’intérêt : C, C++, Python, développement web, intelligence artificielle.  
-✨ Objectif : devenir ingénieure en informatique créative et innovante.
+Hi! I’m Issra , a computer engineering student passionate about building clean, impactful, and user-focused digital experiences. I love turning ideas into practical tools, exploring new technologies, and constantly pushing myself to learn more. Whether it’s designing intuitive interfaces, writing efficient code, or crafting meaningful projects that help others, I enjoy every step of the process. I’m always looking for opportunities to grow, collaborate, and create software that makes a difference.
